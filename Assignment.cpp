@@ -2,6 +2,8 @@
 //cant4f@mail.umkc.edu
 //uses Date.h and StringTokenizer.h classes provided by instructor
 //this line is a test of the use of github
+//this is a second line to test github updating ability
+//more test
 #include <string>
 #include "Assignment.h"
 #include "Date.h"
